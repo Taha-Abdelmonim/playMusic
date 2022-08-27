@@ -33,6 +33,7 @@ body {
 
 .wrapper {
   max-width: 1000px;
+  width: 500px;
   height: 100vh;
   text-align: center;
   padding: 2rem;
